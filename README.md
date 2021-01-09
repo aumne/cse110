@@ -35,4 +35,4 @@ I'm not even sure if that last thing is even **possible**.
   - [Creating languages](https://en.wikipedia.org/wiki/Constructed_language)
 - [Below is one of my favorite images](/lions.jpg)
 
-![](https://github.com/aumne/cse110/blob/main/lions.jpg)
+![image](lions.jpg)
