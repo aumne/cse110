@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+# Intro Page
+In the words of many a program:
+> Hello World!
 
-You can use the [editor on GitHub](https://github.com/aumne/cse110/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I'm Diego Alfaro, a third-year undergrad double majoring in computer science and linguistics at UCSD.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Me As a Programmer](https://github.com/aumne/cse110#me-as-a-programmer)
 
-### Markdown
+[More About Me](https://github.com/aumne/cse110#more-about-me)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Me As a Programmer
+Whether for an assignment or for something small and personal, I've programmed in the following languages at least twice:
+- Java
+- C
+- C++
+- Python
+- ~~Scratch~~ ;)
 
-```markdown
-Syntax highlighted code block
+Ranked list of programming languages I used once and never want to again:
+1. ARM asssembly
 
-# Header 1
-## Header 2
-### Header 3
+Assembly wins by default here, but I'm sure it would still win even if there were more things listed. Working with something low level like assembly made me glad I wasn't born over a generation ago. Moreover, it made me realize C was never actually *that bad*, something I tend to forget whenever I see the helpful and incredibly descriptive error message `Segmentation fault`.
 
-- Bulleted
-- List
+Some things I've learned or haven't (yet) learned to do:
+- [x] Quit vim
+- [ ] Get a program right on the first try
 
-1. Numbered
-2. List
+I'm not even sure if that last thing is even **possible**.
 
-**Bold** and _Italic_ and `Code` text
+## More About Me
+- Born and raised in San Diego
+- Hobbies
+  - Gaming
+  - Learning languages
+  - [Creating languages](https://en.wikipedia.org/wiki/Constructed_language)
+- [Below is one of my favorite images](/lions.jpg)
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aumne/cse110/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![](https://github.com/aumne/cse110/blob/main/lions.jpg)
